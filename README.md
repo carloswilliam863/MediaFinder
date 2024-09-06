@@ -9,10 +9,10 @@ Já se pegou cantarolando uma música e não conseguindo lembrar o título? Ou t
 Imagine ter um amigo que conhece todos os seus filmes e músicas favoritos e que pode te ajudar a encontrá-los com base em suas lembranças. É exatamente isso que o Buscador     de Memórias faz!
 
 ### Como usar:
-    Digite suas lembranças: No campo de busca, insira palavras-chave relacionadas ao filme ou música que você procura. Por exemplo:
-       - Filmes: "fantasia anel hobbit" para encontrar "O Senhor dos Anéis".
-       - Músicas: "amor da minha vida daqui ate a eternidade" para encontrar "Exagerado" do Cazuza.
-       - Gêneros: "drama" para encontrar todos os filmes de drama na base de dados.
+Digite suas lembranças: No campo de busca, insira palavras-chave relacionadas ao filme ou música que você procura. Por exemplo:
+    - Filmes: "fantasia anel hobbit" para encontrar "O Senhor dos Anéis".
+    - Músicas: "amor da minha vida daqui ate a eternidade" para encontrar "Exagerado" do Cazuza.
+    - Gêneros: "drama" para encontrar todos os filmes de drama na base de dados.
     Selecione o tipo de mídia: Escolha se você está procurando um filme ou uma música.
     Clique em buscar: E pronto! O buscador vai te mostrar todos os resultados que combinam com a sua busca.
 
