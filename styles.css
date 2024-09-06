@@ -78,3 +78,10 @@ button {
   background-color: #673AB7; /* Roxo vibrante */
   color: #fff; /* Branco */
 }
+
+#busca {
+  width: 80%; /* Ocupa 80% da largura do container */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
