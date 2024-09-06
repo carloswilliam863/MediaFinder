@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Filmes e Músicas</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+<body>
+    <div class="container">
+        <h1>Buscador de Filmes e Músicas</h1>
+        <p class="objetivo">Seu guia para filmes e músicas.</p>
+
+       
+        <p class="objetivo">
+            <i class="fas fa-film"></i> Não se lembra do título daquele filme que te marcou? <br>
+            Ou da letra daquela música que não sai da sua cabeça? <br>
+            Com nosso buscador, você pode encontrar o que procura. <br>
+            Coloque palavras chave que descreva o filme ou trecho da música para encontrarmos
+        </p>
+
+        <form>
+            <select id="tipo-busca">
+                <option value="filme">Filme</option>
+                <option value="musica">Música</option>
+            </select>
+            <input type="text" id="busca" placeholder="Digite a descrição do filme...">
+            <button type="submit">Buscar</button>
+        </form>
+
+        <script>
+            const selectElement = document.getElementById('tipo-busca');
+            const inputElement = document.getElementById('busca');
+
+            selectElement.addEventListener('change', () => {
+                if (selectElement.value === 'filme') {
+             inputElement.placeholder = 'Digite a descrição do filme...';
+                 } else if (selectElement.value === 'musica') {
+             inputElement.placeholder = 'Digite o trecho da música...';
+    }
+});
+        </script>
+
+        <div id="resultados-container"></div>       
+
+    </div>
+
+  
+
+    
+
+    
+    <script src="dados.js"></script>
+    <script src="script.js"></script>
+ </body>
+</html>
+
+
