@@ -29,11 +29,11 @@ O Buscador de Memórias utiliza HTML, CSS e JavaScript para criar uma interface 
 ### O que você pode encontrar:
 
    - Filmes: Nossa base de dados inclui alguns filmes, desde clássicos do cinema mundial até produções nacionais. Você pode encontrar filmes de diversos gêneros, como drama, comédia, ação e fantasia.
-   - Músicas: A base de dados musical brasileira conta com uma seleção de músicas de diferentes artistas e estilos. Você pode buscar por trechos de letras, nome de artistas ou gênero musical.
+   - Músicas: A base de dados de musicas nacionais conta com uma seleção de músicas de diferentes artistas e estilos. Você pode buscar por trechos de letras, nome de artistas ou gênero musical.
 
 ### Exemplo de busca:
 
-Imagine que você assistiu a um filme brasileiro sobre corrupção policial no Rio de Janeiro, mas não lembra o nome. Você pode digitar as palavras-chave "corrupção policial rio de janeiro" e o buscador te mostrará o filme "Tropa de Elite".
+Imagine que você já assistiu a um filme brasileiro sobre corrupção policial no Rio de Janeiro, mas não lembra o nome. Você pode digitar as palavras-chave "corrupção policial rio de janeiro" e o buscador te mostrará o filme "Tropa de Elite".
 
 ### Limitações:
 
